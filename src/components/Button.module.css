@@ -1,0 +1,52 @@
+
+.red {
+    color: red;
+}
+
+.red:hover {
+    background-color: red;
+    color: white;
+}
+
+.green {
+    color: green;
+}
+
+.green:hover {
+    background-color: green;
+    color: white;
+}
+
+.blue {
+    color: blue;
+}
+
+.blue:hover {
+    background-color: blue;
+    color: white;
+}
+
+.sm {
+    font-size: 0.9em;
+}
+
+.md {
+    font-size: 1em;
+}
+
+.lg {
+    font-size: 1.25em;
+}
+
+.button {
+    padding: 0.5em;
+    border-radius: 2em;
+    min-width: 4em;
+    max-width: fit-content;
+    cursor: pointer;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    border: solid 1px;
+    box-sizing: border-box;
+    background-color: white;
+}
